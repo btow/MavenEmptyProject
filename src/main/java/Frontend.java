@@ -5,7 +5,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * The class contained a servlet ""
+ * The class contained a servlet for request "/authform"
  * Created by btow on 30.11.2016.
  */
 public class Frontend extends HttpServlet {
